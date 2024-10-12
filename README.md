@@ -1,4 +1,4 @@
-# IA-Labs
+# ML-Labs
 Machine Learning Laboratories, University: UNSTPB, Faculty: Automatic Control and Computer Science, 4th year.
 
 Laboratoarele de Învățare Automată(Machine Learning) de la UNSTPB-ACS, anul 4.
